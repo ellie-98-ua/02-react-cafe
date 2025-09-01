@@ -1,4 +1,3 @@
-// інтерфейс для стану голосів
 export interface Votes {
   good: number;
   neutral: number;
